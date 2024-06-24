@@ -8,6 +8,16 @@ Available classes:
 - AudioSystem
 - AudioTrack
 
+или
+
+- php\audio\AudioDevice
+- php\audio\AudioSystem
+- php\audio\AudioTrack
+- php\audio\controls\PanControls
+- php\audio\controls\VolumeControls
+- php\audio\controls\BalanceControls
+- php\audio\controls\AbstractAudioControls
+
 Exmaple:
 
 ```php
