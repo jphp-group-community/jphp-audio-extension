@@ -1,3 +1,6 @@
+https://github.com/jphp-group/jphp-audio-extension   
+https://github.com/SerafimArts/jphp-audio-extension
+
 jphp-audio-extension
 ==================
 
